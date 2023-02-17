@@ -1,6 +1,6 @@
 # transport-apis
 
-This repoistory contains 2 Spring Boot applications:
+This repository contains 2 Spring Boot applications:
 - Application 1 simulates a user management system
 - Application 2 simulates a logistic system, where user can fetch data from
 
